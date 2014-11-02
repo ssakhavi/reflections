@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Basically it is to say that you want to control versions of the repository on 
+your computer. it makes a .\git folder which has the commits inside
+
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+You can determine how you actually want the order of the commits and the bundle 
+of commits to be when you are trying change several files as once
+
+
