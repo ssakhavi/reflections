@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Basically it is to say that you want to control versions of the repository on 
+your computer. it makes a .\git folder which has the commits inside
+
