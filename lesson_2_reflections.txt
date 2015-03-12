@@ -33,3 +33,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 
 It is a new branch that has both. To have a better understanding of the merging process
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The problem with automatic merging is that sometime there will be lines of code that you don't want to merge.
