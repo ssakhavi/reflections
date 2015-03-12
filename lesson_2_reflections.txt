@@ -27,3 +27,9 @@ also we want to create another version of the same thing
 How do the diagrams help you visualize the branch structure?
 
 They help us by having the whole picture at once
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+It is a new branch that has both. To have a better understanding of the merging process
