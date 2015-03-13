@@ -9,3 +9,8 @@ for one of my projects.
 ## Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 So if you make a mistake it doesn't interfere with the original code.
+
+
+#What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is good to look at progress 
