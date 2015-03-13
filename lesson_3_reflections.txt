@@ -20,3 +20,8 @@ It is good to look at progress
 
 The main benefit of using git/github is that you can work remotely.
 the major problem is that by doing so, there could be a lot of conflict
+
+
+#When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you generally don't want to interfere with the progress
