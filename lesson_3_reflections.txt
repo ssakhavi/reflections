@@ -13,4 +13,10 @@ So if you make a mistake it doesn't interfere with the original code.
 
 #What is the benefit of having a copy of the last known state of the remote stored locally?
 
-It is good to look at progress 
+It is good to look at progress
+
+
+#How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+The main benefit of using git/github is that you can work remotely.
+the major problem is that by doing so, there could be a lot of conflict
